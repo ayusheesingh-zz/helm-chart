@@ -40,6 +40,6 @@ entries:
       sources:
         - https://github.com/Microsoft/OMS-docker/tree/ci_feature_prod
       urls:
-        - https://ayusheesingh.github.io/helm-chart/azuremonitor-containers-2.7.9.tgz
-      version: 2.7.9
+        - https://ayusheesingh.github.io/helm-chart/azuremonitor-containers-2.7.10.tgz
+      version: 2.7.10
 generated: "2020-02-24T20:28:32.026102-08:00"
